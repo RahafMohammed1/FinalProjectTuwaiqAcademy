@@ -108,6 +108,20 @@ So the benefit that each of these users will get is :
 - Drow the process of Marketer Actor in a use-case diagram 
 - Fix (redraw) the class diagram and usecase diagram at the end of the project
 - Create and write the README (Markfile) of the project
+- the figma page i created/
+  1- marketer-home-Dashboard
+  2- marketer/home/veiwSuppliers  &&  /viewSupplierProducts && /SelectSupplier
+  3- marketer/home/MakeRequest
+  4- marketer/home/viewMyRequests
+  5- marketer/home/viewMyRequests
+  6- marketer/home/addProductfromSupplierProduct
+  8- marketer/home/marketer view his product
+  9- marketer/home/Marketer Add discount on product
+  10- marketer/home/createcopoune
+  11- marketer/home/marketer view his coupons
+  12- marketer/home/MyData
+  
+  
 
 
 # the technical work
