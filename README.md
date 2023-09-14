@@ -1,21 +1,19 @@
 
 # Musouk  (مُسوق)
 
-A brief description of what this project does and who it's for
-
-The idea of the project is a platform that combines the supplier, the marketer, and the shopper in the same place
-
-So the benefit that each of these users will get is :
-* Supplier / Through our platform he/she can get many marketers for his products with a marketing percentage, he determines it for each category of his products, whether they are few or many
-
-* Marketer /The marketer can get a supplier where he markets his products and gets the marketing percentage. As a result, the marketer does not take the trouble of buying products or even looking for warehouses to store them!!!. He can sell the products through our platform, by marketing them only.
-
-* Shopper /The shopper through our platform can get many products through many marketers, as he can get the product he wants at different prices and offers, and every marketer offers discount coupons, which is excellent!!!
+A brief description of what this project does and who it's for/
 
 
+The project is a platform that brings together three categories of Saudi society and provides a solution or benefit to them
+The categories are supplier, marketer, and shopper
 
+Therefore the benefits to each of these users are:
 
+The supplier/suppliers’ problem is that they want many local marketers to market their products, and no unified platform or place brings these marketers together. Through our platform, he can get many marketers for his products in exchange for marketing ratios that he sets for each category of his products, whether they are few or many.
 
+Marketer / The problem of marketers is that when they search for and choose a local supplier, they face difficulty. This is because each supplier has its own means of communication. Also, each supplier has its own products and marketing ratios. When the marketer compares these ratios and products, he faces difficulty. Through our platform, the marketer can display all the suppliers registered on the platform and browse their products and the marketing rates for each one of them. After that, he decides and chooses the appropriate supplier for him. Then he sends a marketing request to the supplier he chose and waits for acceptance or rejection. If he is accepted, he can choose products from the supplier’s products to market them, and the products will be added to his page in an appropriate manner. Direct. There are also marketing tools that help the marketer, such as coupons or discounts on specific products
+
+The shopper / Through our platform, the shopper can obtain many products through many marketers, where he can obtain the product he wants at different prices and offers, and the marketer offers coupons and discounts, and this is excellent!!!
 
 
 
